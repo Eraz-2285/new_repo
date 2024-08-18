@@ -1,3 +1,4 @@
 this is first file of this repo
 I'm a CSE student, 
 I Study at Premier University Chattogram
+Now I'm learning about git & github. 
