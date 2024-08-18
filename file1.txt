@@ -1,4 +1,5 @@
 this is first file of this repo
 I'm a CSE student, 
-I Study at Premier University Chattogram
+I Study at Premier University Chattogram.
+I am interested to learn new thing about coding and take related subjects.
 Now I'm learning about git & github. 
