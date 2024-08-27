@@ -1,2 +1,3 @@
-# new_repo
-this repo is for my own practice.
+# Tamjid's World
+
+Its my protfolio website, 
